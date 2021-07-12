@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Controles</string>
+    <string name="txtDatos">Datos</string>
+    <string name="hint_nombre">Introduce tu nombre</string>
+    <string name="hint_email">Introduce tu email</string>
+    <string name="hint_domicilio">Introduce tu domicilio</string>
+</resources>
